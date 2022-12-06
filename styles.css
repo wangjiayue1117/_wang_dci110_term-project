@@ -1,0 +1,47 @@
+body 
+{background-color: lavender;
+}
+nav {
+    font-family: 'Mulish', sans-serif;
+}
+
+h1 {font-family: 'Happy Monkey', cursive;
+    letter-spacing: 1.5px;}
+
+h2 {font-family: 'Happy Monkey', cursive;
+    letter-spacing: 1.3px;}
+
+h3 {font-family: 'Happy Monkey', cursive;}
+
+h4 {font-family: 'Happy Monkey', cursive;}
+
+h5 {font-family: 'Mulish', sans-serif;
+}
+
+p {font-family: 'Mulish', sans-serif;
+}
+
+h4 {color: rgba(12, 19, 162, 0.564);
+    font-family: 'Happy Monkey', cursive;
+    border-style: dotted;
+    border-radius: 15px;
+    border-width: thick;
+      }
+
+      a:link, a:visited {
+        background-color: #b655a6ad;
+        color: white;
+        padding: 14px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      a:hover, a:active {
+        background-color: rgba(250, 155, 60, 0.587);
+      }
+
+footer {
+    background:#fff6e44d;
+        
+    }

@@ -1,0 +1,31 @@
+body 
+{background-color: lavender;
+}
+
+nav {font-family: 'Mulish', sans-serif;}
+
+h2 {font-family: 'Happy Monkey', cursive;
+    letter-spacing: 1.75px;}
+
+h4 {font-family: 'Happy Monkey', cursive;
+  letter-spacing: 1px;}
+
+p {font-family: 'Mulish', sans-serif;}
+
+a:link, a:visited {
+    background-color: #930244d9;
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgba(69, 84, 244, 0.33);
+  }
+
+  footer {
+    background:#ffffff66;  
+    }
+
