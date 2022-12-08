@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/wangj23/public_html/wang_dci110_term-project
+    - /bin/cp -R * $DEPLOYPATH
